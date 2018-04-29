@@ -17,13 +17,27 @@ Follow along with Jay's introductory presentation to the course.
 3. Insert not-a-number (NaN) into a vector or matrix to indicate a missing (or null) value.  
 ***note:*** The value NaN is a special character recognized by MATLAB as a null value. Any normal operations that are carried out on variables containing NaNs will result in NaN.
 4.  Use indexing to reference specific items in a matrix
-***example***: d = matrix1(2,3) creates a variable *d* containing the value in the second row and third column of *matrix1*  
-***example2***: e = matrix1(:,3) creates a variable *e* containing all values in the third column of *matrix1*
-
-
+***example***: ```d = matrix1(2,3)``` creates a variable *d* containing the value in the second row and third column of *matrix1*  
+***example2***: ```e = matrix1(:,3)``` creates a variable *e* containing all values in the third column of *matrix1*
 ### B.2. Types of MATLAB variables
+MATLAB provides for a number of different variable types to be used. Typically, the most appropriate variable type depends on the nature of your data and your desired processes and outcomes. Here are the MATLAB  variable types:
 
- 
+- **integer** arrays (of varying length, signed/unsigned)
+- **numeric** arrays (real numbers)
+- **logical** arrays (values of 1 or 0, representing true and false)
+- **character** arrays (strings stored as vectors of characters)
+- **cell** arrays (array of indexed cells, each capable of storing an array of different dimension and type; think of Excel spreadsheets, if each cell could contain countless more cells inside of it)
+- **structure** arrays (expandable tree of variables, which can each be of different size and type)
+- **objects** (user classes and java classes)  
+
+Below, you'll learn a bit more about basic array types.
+####Numeric arrays
+You've already been introduced to numeric arrays through your work with scalars, vectors and matrices. 
+
+1. Create a character array using a string of characters. example: 
+```str1 = 'Hello.'```
+2. 
+#### Character arrays
 
 ## C. Introduction to Github
 
