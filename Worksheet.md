@@ -6,7 +6,7 @@ Follow along with Jay's introductory presentation to the course.
 ## B. Introduction to Matlab
 1. Complete short introductory presentation
 2. Explore the interface layout. Know the name of each panel, and briefly describe what they do.
-### B.2. Basic command window operation
+### B.1. Basic command window operation
 1. **Create numeric variables using the command window
 -- Assign custom names to variables
 2. Create row vectors, column vectors and matrices
@@ -21,7 +21,7 @@ Follow along with Jay's introductory presentation to the course.
 ***example2***: e = matrix1(:,3) creates a variable *e* containing all values in the third column of *matrix1*
 
 
-#### B.2.1. Types of MATLAB variables
+### B.2. Types of MATLAB variables
 
  
 
