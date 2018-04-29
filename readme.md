@@ -23,6 +23,7 @@ Term: Spring 2018
 Class size cap: 25 students
 
 **Schedule and location**
+
 | Date | Time | Location |
 |:----|:-----|:----|
 |Wednesday, 2-May, 2018 | 0930 - 1600 | KTH B123 (computer lab)|
