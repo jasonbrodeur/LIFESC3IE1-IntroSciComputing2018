@@ -1,6 +1,6 @@
-#LIFE SC 3IE1 - Introduction to Scientific Computing
+# LIFE SC 3IE1 - Introduction to Scientific Computing
 Syllabus, Spring 2018
-##Introduction
+## Introduction
 
 Scientific computing—using computer algorithms to solve scientific problems—plays an important role in research for many modern scientific disciplines. By developing computer programs that collect, refine, analyze, and visualize experimental data, scientists are able to explore new scientific hypotheses, and broaden their understanding of physical phenomena and relationships. Even in cases where datasets are small and relatively straightforward, using scripted, programming approaches can greatly improve the efficiency and the reproducibility of scientific analysis. 
 
@@ -28,10 +28,10 @@ Class size cap: 25 students
 |Wednesday, 2-May, 2018 | 0930 - 1600 | KTH B123 (computer lab)|
 |Thursday, 10-May, 2018 | 0930 - 1230 | KTH B123 (computer lab)|
 
-##Required materials: 
+## Required materials: 
 Students may be asked to bring a personal laptop computer to the session to facilitate some work that is not possible given the computer lab workstation software. 
 
-##Assessment and Course Deliverables:
+## Assessment and Course Deliverables:
 The class will be graded on a pass/fail basis.  There will be a total of three evaluation components; all components must be passed in order to pass the course.
 Under instructor guidance, students will participate in a hands-on introduction to scientific computing and the MATLAB environment.
 Students will select a project from a small selection of choices that will be provided by the instructor. Students will be assigned a number of requirements, and will work independently (with assistance from the instructor or peers, as necessary) to develop programmatic approaches to meet the requirements. All datasets and background information required to complete the tasks will be required. 
